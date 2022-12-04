@@ -5,3 +5,6 @@
 -->
 I'm IAX86.</br>
 I'm making bash program,  PKGBUILDs, and something. But I didn't upload it.
+
+How old: 14
+Birthday: 07/03
