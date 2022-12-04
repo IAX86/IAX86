@@ -7,4 +7,5 @@ I'm IAX86.</br>
 I'm making bash program,  PKGBUILDs, and something. But I didn't upload it.
 
 How old: 14 </br>
-Birthday: 07/03
+Birthday: 07/03 </br>
+Email: grapeia07na86@gmail.com
