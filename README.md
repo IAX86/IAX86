@@ -8,4 +8,6 @@ I'm making bash program,  PKGBUILDs, and something. But I didn't upload it.
 
 How old: 14 </br>
 Birthday: July 3 </br>
-Gmail: grapeia07na86@gmail.com
+Gmail: grapeia07na86@gmail.com  
+Wikipedia: IAX86 (https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:IAX86)
+Gitlab: IAX86 (https://gitlab.com/IAX86)
