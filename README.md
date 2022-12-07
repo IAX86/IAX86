@@ -11,4 +11,4 @@ Birthday: July 3 </br>
 Gmail: grapeia07na86@gmail.com  
 Wikipedia: IAX86 (<https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:IAX86>)  
 Gitlab: IAX86 (<https://gitlab.com/IAX86>)  
-Ubuntu Keyserver fingerprint:78B07499B65E0323EC2346932E3E43A7ED6C72A2
+Ubuntu Keyserver fingerprint:78B07499B65E0323EC2346932E3E43A7ED6C72A2  
