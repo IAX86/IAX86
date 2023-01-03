@@ -9,7 +9,7 @@
 \(Thanks to [Asari-Science](https://github.com/Asari-Science)\)
 
 I'm IAX86.  
-I'm making bash program, PKGBUILDs, Go language sources, and something. But I didn't upload it.
+I'm making bash program, PKGBUILDs, Go language sources, and something.
 
 How old: 14  
 Birthday: July 3    
